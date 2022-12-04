@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DraxterOP
+- 👋 Hi, I’m om daptardar
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate 
